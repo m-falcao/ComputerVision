@@ -1,4 +1,4 @@
-# *Chihuahua Bluebbery Muffin Problem*
+# *Chihuahua Blueberry Muffin Problem*
 
 ### This code is a solution for a machine learning problem that aims to differentiate between images of chihuahua dogs and blueberry muffins. It is written in Python and runs on a Jupyter Notebook in Google Colab.
 
