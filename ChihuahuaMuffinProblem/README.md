@@ -4,11 +4,11 @@
 
 ## Setup
 The code requires several Python packages to be installed. The following packages can be installed by running the commands:
-pip install requests
-pip install bs4
-pip install fastcore
-pip install fastdownload
-pip install fastai
+- pip install requests
+- pip install bs4
+- pip install fastcore
+- pip install fastdownload
+- pip install fastai
 
 ## Usage
 The code starts by creating a temporary directory to download and store the images.
