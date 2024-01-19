@@ -25,5 +25,3 @@ Finally, the model is tested on a randomly selected image from each category, an
 
 ## Limitations
 Due to the limit imposed by the Google API, only a maximum of 20 images can be downloaded for each search term. This may limit the accuracy of the model.
-
-Also, the model may not perform well on images that are significantly different from the images in the training set, or on images with poor lighting, low resolution, or other factors that may affect the quality of the image.
